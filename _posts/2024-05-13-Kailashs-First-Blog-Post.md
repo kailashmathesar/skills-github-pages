@@ -13,3 +13,5 @@ date: 2024-05-13
 >
 > 
 Typing the text without starting it with >. Whats the difference in output?
+>
+> Ok got it, uderstood the difference between starting with > and without >.
