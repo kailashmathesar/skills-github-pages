@@ -10,3 +10,6 @@ date: 2024-05-13
 > Whats the purpose of using >?
 >
 > What difference does it make to the text when published?
+>
+> 
+Typing the text without starting it with >. Whats the difference in output?
